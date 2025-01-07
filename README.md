@@ -1,4 +1,4 @@
-# Task4_Sparks_Foundation_(EDA_Terrorism)
+# Task4 Sparks Foundation (EDA Terrorism)
 ## Overview
 This project involves Exploratory Data Analysis (EDA) of terrorism-related datasets to uncover patterns, trends, and insights. The goal is to analyze the impact of terrorism, examine the geographical distribution of incidents, and explore various factors contributing to terrorism events.
 
@@ -39,7 +39,7 @@ The dataset includes information about various terrorist attacks around the worl
 ## How to Run
 - Clone the repository or download the Jupyter notebook.
 - Install necessary libraries using:
-      pip install pandas matplotlib seaborn numpy
+    - pip install pandas matplotlib seaborn numpy
 - Run the Jupyter notebook to execute the EDA and visualize the results.
 
 ## Conclusion
