@@ -39,15 +39,8 @@ The dataset includes information about various terrorist attacks around the worl
 ## How to Run
 - Clone the repository or download the Jupyter notebook.
 - Install necessary libraries using:
-  ![image](https://github.com/user-attachments/assets/14a0f33b-2b71-4854-94c7-56b6ddfea257)
-
-bash
-Copy code
-pip install pandas matplotlib seaborn numpy
-Run the Jupyter notebook to execute the EDA and visualize the results.
+      pip install pandas matplotlib seaborn numpy
+- Run the Jupyter notebook to execute the EDA and visualize the results.
 
 ## Conclusion
 This analysis provides valuable insights into the patterns of terrorism and can aid in understanding the global impact of terrorism over time.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
