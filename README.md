@@ -1,4 +1,4 @@
-# Task4 Sparks Foundation (EDA Terrorism)
+# EDA Terrorism Dataset (Sparks Foundation)
 ## Overview
 This project involves Exploratory Data Analysis (EDA) of terrorism-related datasets to uncover patterns, trends, and insights. The goal is to analyze the impact of terrorism, examine the geographical distribution of incidents, and explore various factors contributing to terrorism events.
 
