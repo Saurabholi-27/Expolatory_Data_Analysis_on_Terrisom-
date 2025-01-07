@@ -8,7 +8,7 @@ This project involves Exploratory Data Analysis (EDA) of terrorism-related datas
 - Identify hotspots of terrorism activities based on regions and countries.
 - Understand the impact of various factors (e.g., attack type, region, time) on terrorism.
 
-##Tools & Technologies Used
+## Tools & Technologies Used
 - Python: Programming language used for data manipulation and analysis.
 - Libraries:
   - Pandas: For data manipulation and analysis.
